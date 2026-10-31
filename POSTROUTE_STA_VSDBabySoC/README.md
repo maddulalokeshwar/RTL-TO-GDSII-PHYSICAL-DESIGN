@@ -10,17 +10,15 @@ Click any screenshot to open it at full size. Click a report name to open the PD
 
 ## Timing Reports
 
-### `PRE_STA_16_CORNERS_REPORT.pdf` - Pre-route timing baseline
+### `VSDBabySoC_Post_STA_Report_All_Corners.pdf` - Pre-route timing baseline
 
 This 16-corner STA report records timing before the route stage. Use it as the baseline when comparing timing across the physical-design flow.
 
-[Open the pre-route 16-corner STA report](PRE_STA_16_CORNERS_REPORT.pdf)
-
-### `POST_STA_16_CORNERS_REPORT.pdf` - Post-route timing results
+[Open the pre-route 16-corner STA report](VSDBabySoC_Post_STA_Report_All_Corners.pdf)
 
 This 16-corner STA report records timing after routing. Compare it with the pre-route report to see how routed parasitics and the completed physical implementation affect timing across the reported corners.
 
-[Open the post-route 16-corner STA report](POST_STA_16_CORNERS_REPORT.pdf)
+[Open the post-route 16-corner STA report](VSDBabySoC_Post_STA_Report_All_Corners.pdf)
 
 ## Image-by-Image Guide
 
