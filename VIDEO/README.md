@@ -6,7 +6,7 @@ A ~16-minute walkthrough of what I learned in this course, using open-source too
 
 ## Watch the video
 
-### [👉 Click here to see the video](https://drive.google.com/file/d/1_lTXPXBqyxhfqN1JfvPyDH_VFePVhd-Z/view?usp=sharing)
+### [👉 Click here to see the video]([https://drive.google.com/file/d/1_lTXPXBqyxhfqN1JfvPyDH_VFePVhd-Z/view?usp=sharing](https://drive.google.com/file/d/1QgmCZ76JZ42-gf7VHZpVXOvadaHc0OJa/view?usp=drivesdk))
 
 | | |
 |---|---|
