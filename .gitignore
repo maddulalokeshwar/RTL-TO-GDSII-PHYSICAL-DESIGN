@@ -1,1 +1,19 @@
+# Operating system
 .DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
